@@ -10,6 +10,10 @@ app/design/frontend/default/default/
 app/design/frontend/default/blank/
 app/design/frontend/default/iphone/
 app/design/frontend/default/modern/
+!/app/design/adminhtml/default/default/template/turpentine*
+!/app/design/adminhtml/default/default/layout/turpentine.xml
+!/app/design/frontend/base/default/template/turpentine*
+!/app/design/frontend/base/default/layout/turpentine_esi.xml
 app/design/install/
 !/app/etc/modules/
 app/etc/modules/*
