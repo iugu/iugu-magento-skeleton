@@ -5,6 +5,7 @@ app/code/community/Phoenix/
 app/code/community/Cm/
 app/code/core/
 app/design/adminhtml/default/default/*
+app/design/adminhtml/default/default/template/*
 !app/design/adminhtml/default/default/template
 app/design/frontend/base/base/*
 app/design/frontend/base/default/*
