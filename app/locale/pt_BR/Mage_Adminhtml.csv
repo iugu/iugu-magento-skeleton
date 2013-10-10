@@ -513,7 +513,7 @@ Magento Connect Manager,Abrir Magento Connect
 Magento Logo,Logo do Magento
 Magento is a trademark of Magento Inc. Copyright &copy; %s Magento Inc.,Magento é uma marca registrada de Magento Inc. Copyright &copy; %s Magento Inc.
 Magento root directory,Magento diretório principal
-Magento ver. %s,Magento versão. %s <br/>Traduzido por <a href='http://www.mariosam.com.br/' target='_blank'>Mario SAM</a>
+Magento ver. %s,Magento versão. %s
 Magento&trade; is a trademark of Magento Inc.<br/>Copyright &copy; %s Magento Inc.,Magento&trade; é uma marca registrada da Magento Inc.<br/>Copyright &copy; %s Magento Inc.
 Make sure that data encoding in the file is consistent and saved in one of supported encodings (UTF-8 or ANSI).,Tenha certeza de que o encoding do arquivo é consistente e salve em um formato suportado (UTF-8 ou ANSI).
 Manage Attribute Sets,Grupo de Atributos
@@ -1191,3 +1191,6 @@ successful,sucesso
 to,para
 website(%s) scope,escopo website(%s)
 "{{base_url}} is not recommended to use in a production environment to declare the Base Unsecure URL / Base Secure URL. It is highly recommended to change this value in your Magento <a href=""%s"">configuration</a>.","{{base_url}} não é recomendável usar em ambiente de produção, para declarar a URL Base (Não Segura) / URL Base (Segura). É altamente recomendável alterar estes valores na sua <a href=""%s"">configuração</a> do Magento."
+Prices, Preços
+Meta Information, Meta Informação
+Recurring Profile, Perfil Recorrente

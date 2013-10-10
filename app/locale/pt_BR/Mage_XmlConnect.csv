@@ -124,7 +124,7 @@ App has been saved.,App foi salvo.
 App has been submitted.,App foi enviado.
 App model not loaded.,Modelo do App não carregado.
 App with specified code does not exist.,App não existe para o código informado.
-"Appears in the info section of your app (example:  Copyright 2010 – Your Company, Inc.)","Aparece como informação do seu app (exemplo:  Copyright 2013 – Mario SAM, Inc.)"
+"Appears in the info section of your app (example:  Copyright 2010 – Your Company, Inc.)","Aparece como informação do seu app (exemplo:  Copyright 2013 – Sua Empresa, Inc.)"
 Application,Aplicativo
 Application Key,Chave do Aplicativo
 Application Master Secret,Ultra Segredo do Aplicativo
