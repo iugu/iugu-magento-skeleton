@@ -1,0 +1,22 @@
+{* Bloco de coment‡rio
+
+Vari‡veis dispon’veis neste template:
+  - name            Nome do destinat‡rio
+  - email           Email do destinat‡rio
+  - product_name    Nome do produto
+  - product_url     Url do produto
+  - product_image   Url da imagem do produto (75 px)
+  - message         Mensagem personalizada
+  - sender_name     Nome do remetente
+  - sender_email    Email do remetente
+
+Utilize: {{var var_name}}
+*}<!--@subject Compartilhando, {{var name}} @-->
+<!--@vars
+{"htmlescape var=$name":"Recipient Name",
+"var product_url":"Url for Product",
+"var product_name":"Product Name",
+"var message":"Sender Message"}
+@-->
+
+Ol&aacute;, {{htmlescape var=$name}}<br /><br />Veja o produto: <a href="{{var product_url}}">{{var product_name}}</a><br /><br />Mensagem pra voc&ecirc;: <br />{{var message}}<br /><br />

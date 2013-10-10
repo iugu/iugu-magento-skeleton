@@ -1,0 +1,513 @@
+-OR-,-OU-
+2-pixel perimeter around the header space.,aproximadamente 2-pixel em torno do espaço do cabeçalho.
+3D Secure,3D Secure
+3D Secure Card Validation,Validação de Cartão 3D Secure
+"3D Secure validation is required for Maestro cards. Supporting of American Express cards require additional agreement. Learn more at <a href=""http://www.paypal.com/amexupdate"">http://www.paypal.com/amexupdate</a>.","Validação 3D Secure é obrigatório para cartões Maestro. Suporte à cartões American Express exigem outros termos e condições. Saiba mais em <a href=""http://www.paypal.com/amexupdate"">http://www.paypal.com/amexupdate</a>."
+"<a href=""http://www.magentocommerce.com/paypal"">Start accepting payments via PayPal!</a>","<a href=""http://www.magentocommerce.com/paypal"">Agora aceitando pagamentos PayPal!</a>"
+A case that has been resolved and close requires a reimbursement.,Um caso que foi resolvido e encerrado exige um reembolso.
+A reversal has occurred on this transaction because of a customer dispute suspecting unauthorized spoof.,Foi realizado uma reversão nesta transação porque o cliente declara ter sido feita uma cobrança não autorizada.
+A reversal has occurred on this transaction because you have given the customer a refund.,Foi realizado uma reversão nesta transação porque você concedeu reembolso ao cliente.
+A reversal has occurred on this transaction due to a chargeback by your customer.,Foi realizado uma reversão nesta transação devido a um estorno ao cliente.
+A reversal has occurred on this transaction due to a complaint about the transaction from your customer.,Foi realizado uma reversão nesta transação devido uma reclamação do seu cliente.
+A reversal has occurred on this transaction due to your customer triggering a money-back guarantee.,Foi realizado uma reversão nesta transação pelo cliente ter exigido sua garantia de devolução do dinheiro.
+A value is required for live mode. Refer to your CardinalCommerce agreement.,Um valor é exigido no modo live. Consulte seu contrato CardinalCommerce.
+ACH Deposit (Hold for Dispute or Other Investigation),ACH Depósito (Segurar p/ Disputa ou Outras Investigações)
+ACH Deposit (Reversal),ACH Depósito (Estorno)
+ACH Funding for Funds Recovery from Account Balance,ACH Financiamento p/ Recuperação de Fundos do Saldo da Conta
+ACH Withdrawal,Saque ACH
+API Authentication Methods,API Métodos de Autenticação
+API Certificate,API Certificados
+API Password,API Senha
+API Signature,API Assinatura
+API Username,API Usuário
+API Uses Proxy,API Proxy
+Ability for buyer to purchase without PayPal account.,Permitir que o cliente compre sem ter uma conta PayPal.
+Accept credit card and PayPal payments securely.,Permitir cartão de crédito e pagamentos PayPal seguro.
+"Accept credit cards, debit cards and PayPal payments securely.","Permitir cartão de crédito, cartão de débito e pagamentos PayPal seguro."
+Accept payments in your shopping cart. PayPal will process your card payments through the Payflow Gateway.,Permitir pagamentos no carrinho de compras. PayPal irá processar o pagamento do cartão através do Gateway Payflow.
+Accept payments with a PCI compliant checkout that keeps customers on your site.,Permitir pagamentos com checkout compatíveis com PCI que mantém o cliente no site.
+Accept payments with a PCI-compliant checkout that keeps customers on your site.,Permirir pagamentos com checkout compatíveis com PCI que mantém o cliente no site.
+Accept payments with a completely customizable checkout page.,Permitir pagamentos com uma página de checkout totalmente customizada.
+Accept payments with a completely customizable checkout.,Permitir pagamentos com um checkout totalmente customizado.
+Acceptance Mark,Validar Assinatura
+Acceptance Mark Image,Validar Imagem de Assinatura
+"Account-to-Account Payment, initiated by PayPal","Pagamento Conta-a-Conta, inicializado pelo PayPal"
+Add PayPal as an additional payment method to your checkout page to increase your sales.,Adicionar PayPal como opção de pagamento na sua página de checkout p/ aumentar suas vendas.
+Add PayPal as an additional payment method to your checkout page.,Adicionar PayPal como opção de pagamento na sua página de checkout.
+Add another payment method to your existing solution or as a stand-alone option.,Adicionar outra opção de pagamento à sua solução atual ou como opção independente.
+Additional Options,Opções Adicionais
+Address,Endereço
+Address Verification System Response,Resposta do Sistema de Verificação de Endereços
+Advanced Settings,Opções Avançadas
+All the address information matched,Todas as informações de endereço conferem
+Allow in Billing Agreement Wizard,Permitir Ajuda nos Termos de Cobrança
+"Allowable values: ""paypal"", ""primary"" (default), your_custom_value (a custom payment page style from your merchant account profile).","Valores permitidos: ""paypal"", ""primary"" (padrão), your_custom_value (um estilo de página de pagamento padrão para seu perfil de conta vendedor)."
+Allowed Credit Card Types,Tipos de Cartão de Crédito Permitidos
+Also affects mini-shopping cart.,Também afeta os mini-carrinhos.
+Ask Customer,Pergunte ao Cliente
+"Attempted Authentication, Bad Result","Tentativa de Autenticação, Negativo"
+"Attempted Authentication, Good Result","Tentativa de Autenticação, Positivo"
+Auction Payment other than through eBay,Leilão de Pagamento que não seja pelo eBay
+"Authenticated, Bad Result","Autenticado, Negativo"
+"Authenticated, Good Result","Autenticado, Positivo"
+Authorization,Autorização
+Authorization Honor Period (days),Período de Autorização Honor (dias)
+Authorization transaction is required to void.,Transação da autorização necessita resposta.
+Authorized amount of %s.,Total autorizado de %s.
+Authorizing amount of %s is pending approval on gateway.,Total autorizado de %s está pendente no gateway.
+Auto,Auto
+AutoSweep,AutoSweep
+Available Balance,Saldo Disponível
+Balance Manager Account Bonus,Gerenciar Saldo dos Bônus da Conta
+Basic Settings - PayPal Express Checkout,Configurações Básicas - PayPal Express Checkout
+Basic Settings - PayPal Integral Evolution,Configurações Básicas - PayPal Integral Evolution
+Basic Settings - PayPal Pasarela integral,Configurações Básicas - PayPal Pasarela integral
+Basic Settings - PayPal Payflow Link,Configurações Básicas - PayPal Payflow Link
+Basic Settings - PayPal Payflow Pro,Configurações Básicas - PayPal Payflow Pro
+Basic Settings - PayPal Payments Advanced,Configurações Básicas - PayPal Payments Advanced
+Basic Settings - PayPal Payments Pro,Configurações Básicas - PayPal Payments Pro
+Basic Settings - PayPal Payments Pro Hosted Solution,Configurações Básicas - PayPal Payments Pro Hosted Solution
+Basic Settings - PayPal Payments Standard,Configurações Básicas - PayPal Payments Standard
+Basic Settings - PayPal Pro,Configurações Básicas - PayPal Pro
+Basic Settings - PayPal Website Payments Plus,Configurações Básicas - PayPal Website Payments Plus
+Basic Settings - PayPal Website Payments Pro,Configurações Básicas - PayPal Website Payments Pro
+Basic Settings - PayPal Website Payments Pro Hosted Solution,Configurações Básicas - PayPal Website Payments Pro Hosted Solution
+Basic Settings - PayPal Website Payments Pro Payflow Edition,Configurações Básicas - PayPal Website Payments Pro Payflow Edition
+Basic Settings - PayPal Website Payments Standard,Configurações Básicas - PayPal Website Payments Standard
+Billing Address,Endereço de cobrança
+Billing Agreement Signup,Aceitar Termos de Cobrança
+Bonus for first ACH Use,Bônus p/ primeiro acesso ACH
+Both section above must be complete. ,Ambas seções anteriores devem ser completadas. 
+Buyer Credit Payment,Crédito de Pagamento do Cliente
+Buyer claims that a possible duplicate payment was made to the merchant.,Comprador afirma que um possível pagamento foi duplicado para o comerciante.
+Buyer claims that he did not receive goods or service.,Comprador afirma que não recebeu o produto (ou serviço).
+Buyer claims that he/she did not authorize transaction.,Comprador afirma que não autorizou a transação.
+Buyer claims that the goods or service received differ from merchant’s description of the goods or service.,Comprador afirma que os produtos ou serviços recebidos são diferentes da descrição mencionada pelo comerciante.
+"Buyer claims that the received merchandise is unsatisfactory, defective, or damaged.","Comprador afirma que a mercadoria é insatisfatória, com defeito ou danificado."
+Buyer\'s Tax ID,ID Imposto Cliente
+Buyer\'s Tax ID Type,ID Tipo Imposto Cliente
+"By default it is ""reports.paypal.com"".","Por padrão é ""reports.paypal.com""."
+CNPJ,CNPJ
+CPF,CPF
+CVV Entry is Editable,CVV Valores são Editáveis
+CVV2 Check Result by PayPal,CVV2 Verificar Resultados do PayPal
+Can not send new order email.,Não foi possível enviar Email de novo pedido.
+Cannot create target file for reading reports.,Não foi possível criar arquivo para leitura de relatórios.
+Centinel API URL,API URL Centinel
+Centinel Custom API URL,API URL Centinel Customizada
+Charge-off,Sem Custo
+Chargeback,Estorno
+Checkout with PayPal,Finalizar Pedido usando PayPal
+Choose a secure bundled payment solution for your business.,Selecione um pacote de soluções em pagamento seguro para sua empresa.
+City,Cidade
+Click here if you are not redirected within 10 seconds...,Clique aqui se você não for redirecionado em 10 segundos...
+Close,Fechar
+Company,Empresa
+Complaint,Reclamação
+Completion Date,Data de Conclusão
+Configure,Configurar
+Connect your merchant account with a PCI-compliant gateway that lets customers pay without leaving your site.,Conecte-se à sua conta usando gateway PCI-compliant que permite os clientes realizarem pagamentos sem deixar seu site.
+Connect your merchant account with a fully customizable gateway that lets customers pay without leaving your site.,Conect-se à sua conta usando um gateway totalmente customizado que permite os clientes realizarem pagamentos sem deixar seu site.
+Connecting to PayPal SFTP server to fetch new reports. Are you sure you want to proceed?,Conectando com o servidor SFTP do PayPal p/ obter novos relatórios. Deseja realmente continuar?
+Continue,Continuar
+Countries Payment Applicable From,Aplicar Pagamento aos Países
+Country,País
+Coupon Redemption,Resgatar Cupom
+Credit,Crédito
+Credit Card Settings,Configuração de Cartão de Crédito
+Currency Conversion required to cover negative balance,Conversão de moeda é obrigatório para cobrir saldo negativo
+Custom,Personalizado
+Custom Endpoint Hostname or IP-Address,Ponto-final Personalizado p/ Servidor ou Endereço de IP
+Custom Path,Caminho Personalizado
+Customer Information,Informação Personalizada
+Customer did not include a confirmed address.,Cliente pode não informou um endereço confirmado.
+Daily,Diariamente
+Debit,Débito
+Debit Card Cash Back,Voltar Débito do Cartão
+Debit Card Transaction,Transação do Cartão de Débito
+Debit or Credit,Débito ou Crédito
+Debug Mode,Modo Debug
+Direct Payment API,API Pagamento Direto
+Discount,Desconto
+Display Express Checkout in the Payment Information step,Exibir Express Checkout na etapa Informações de Pagamento
+Displays on catalog pages and homepage.,Exibir nas páginas de catálogo e página inicial.
+Dispute,Disputa
+Don't have a PayPal account? Simply enter your email address.,Não possui uma conta PayPal? Basta digitar seu email.
+Dynamic,Dinâmico
+EFT Funding (German banking),EFT Financiamento (Banco Alemão)
+Edit Shopping Cart,Editar Carrinho
+Email Address,Email
+Email Associated with PayPal Merchant Account,Email Associado à uma conta Vendedor PayPal
+Email Associated with PayPal Merchant Account (Optional),Email Associado à uma conta Vendedor PayPal (Opcional)
+Enable Automatic Fetching,Habilitar Busca Automática
+Enable Express Checkout,Habilitar Express Checkout
+Enable PayPal Guest Checkout,Habilitar Checkout PayPal p/ Visitante
+Enable Payflow Link,Habilitar Link Payflow
+Enable SSL verification,Habilitar verificação SSL
+Enable this Solution,Habilitar esta Solução
+Enabled,Habilitado
+Event,Evento
+Event Code,Código do Evento
+Every 10 days,A cada 10 dias
+Every 14 days,A cada 14 dias
+Every 3 days,A cada 3 dias
+Every 30 days,A cada 30 dias
+Every 40 days,A cada 40 dias
+Every 7 days,A cada 7 dias
+Exact Match. Address and Postal Code. International,Combinação Exata. Endereço e CEP. Internacional
+Exact Match. Address and Postal Code. UK-specific,Combinação Exata. Endereço e CEP. Específico UK
+Exact Match. Address and nine-digit ZIP code,Combinação Exata. Endereço e CEP
+Express Checkout,Express Checkout
+Express Checkout APIs,API Express Checkout
+Express Checkout and Order have been canceled.,Express Checkout e Pedidos foram cancelados.
+Express Checkout has been canceled.,Express Checkout foi cancelado.
+Failed to fetch reports from '%s@%s'.,Falha ao recuperar relatórios de '%s@%s'.
+Fax,Celular
+Fee Amount,Valor da Taxa
+Fee Debit or Credit,Taxa do Cartão de Débito ou Crédito
+Fee Reversal,Taxa de Reembolso
+Fee: Foreign ACH Withdrawal,Taxa: Saque ACH Estrangeiros
+Fee: Mass Pay Request,Taxa: Diversos Pedidos de Pagamento
+Fee: Web Site Payments Pro Account Monthly,Taxa: Conta Profissional p/ Websites de Pagamentos Mensais
+Fee: WorldLink Check Withdrawal,Taxa: Verificar Saque WorldLink
+Fetch,Buscar
+Fetch Updates,Buscar Atualizações
+Fetched %s report rows from '%s@%s'.,Encontrado %s relatório(s) de '%s@%s'.
+For Virtual Quotes Only,Apenas p/ Cotações Virtuais
+Frontend Experience Settings,Configurações de Experiência Frontend
+Funding,Financiamento
+General (Authorization),Geral (Autorização)
+General (Dividend),Geral (Dividendos)
+General (Funds Transfer from PayPal Account to Another),Geral (Transferência de Fundos da Conta PayPal para Outro)
+General (Purchase with a credit card),Geral (Comprar com cartão de crédito)
+General Adjustment without businessrelated event,Ajustes Gerais sem eventos relacionados a negócios
+General Currency Conversion,Conversão de Moeda Geral
+General Funding of PayPal Account ,Financiamento Geral da Conta PayPal
+General Redemption,Resgate Geral
+General Withdrawal from PayPal Account,Geral Saque da Conta PayPal
+General. Product no longer supported,Geral. Produto não é mais suportado
+General: Use of PayPal account for purchasing as well as receiving payments,Geral: Usar conta PayPal p/ comprar e receber pagamentos
+General: Withdrawal from PayPal Account,Geral: Saque da Conta PayPal
+General: Withdrawal to Non-Bank Entity,Geral: Saque p/ uma Entidade Não Bancária
+General: adjustment of a type not belonging to the other T12xx categories,Geral: ajustes do tipo não pertence a outras categorias T12xx
+General: bonus of a type not belonging to the other T08xx categories,Geral: tipo de bônus não pertence a outras categorias T08xx
+General: event not yet categorized,Geral: evento ainda não categorizado
+General: non-payment fee of a type not belonging to the other T01xx categories,Geral: tipo de taxa não-pagamento não pertence a outras categorias T01xx
+General: received payment of a type not belonging to the other T00xx categories,Geral: tipo de pagamento recebido não pertence a outras categorias T00xx
+General: reversal of a type not belonging to the other T11xx categories,Geral: tipo de reembolso não pertence a outras categorias T11xx
+General: temporary hold of a type not belonging to the other T15xx categories,Geral: tipo de espera temporária não pertence a outras categorias T15xx
+Get Credentials from PayPal,Obter Credenciais do PayPal
+Gift Certificate Payment: purchase of Gift Certificate,Cartão Presente de Pagamento: comprado com Cartão Presente
+Gift Certificate Redemption,Resgatar Cartão Presente
+Gross Amount,Valor Bruto
+Header Background Color,Cor de Fundo do Cabeçalho
+Header Border Color,Cor da Borda do Cabeçalho
+Header Image URL,URL da Imagem de Cabeçalho
+Help,Ajuda
+Hidden Virtual PayPal Debit Card Transaction,Ocultar Transação Virtual de Cartão de Débito PayPal
+Hold for Dispute Investigation,Aguardar p/ Investigação de Disputa
+"IPN ""%s"".","IPN ""%s""."
+"IPN ""%s"". %s Transaction amount %s. Transaction ID: ""%s""","IPN ""%s"". %s Total da transação %s. ID da Transação: ""%s"""
+"IPN ""%s"". A dispute has been resolved and closed. %s Transaction amount %s.","IPN ""%s"". Uma disputa foi resolvida e encerrada. %s Total da transação %s."
+"IPN ""%s"". Case type ""%s"". Case ID ""%s"" %s","IPN ""%s"". Caso tipo ""%s"". Caso ID ""%s"" %s"
+"If empty, a default value will be used. Custom URL may be provided by CardinalCommerce agreement.","Se vazio, um valor padrão será usado. URL Personalizada pode ser fornecida pelos termos do CardinalCommerce."
+"If not specified, Default Country from General Config will be used","Se não informado, País Padrão das Configurações Gerais será usado"
+"If this option is enabled, customer can change shipping address and shipping method on PayPal website. In live mode works via HTTPS protocol only.","Se esta opção estiver habilitada, o cliente poderá alterar endereço de entrega e forma de envio no site do PayPal. No modo live funciona apenas via protocolo HTTPS."
+"If you do not have multiple users set up on your account, please re-enter your Vendor/Merchant Login here.","Se você não possui múltiplos usuários cadastrados na sua conta, informe novamente seu Login de Vendedor/Empresário aqui."
+Impossible to issue a refund transaction because the capture transaction does not exist.,Impossível realizar a transação de reembolso porque a transação de captura não existe.
+Incentive,Incentivo
+Initiation Date,Data de Inicialização
+Integral Evolution,Evolução Integral
+Invoice ID,ID Fatura
+Issuer Liability,Responsabilidade do Emissor
+"It is recommended to set this value to ""Debit or Credit Card"" per store views.","É recomendável configurar como ""Débito ou Cartão de Crédito"" por visão de loja."
+"It is recommended to set this value to ""PayPal"" per store views.","É recomendável configurar como ""PayPal"" por visão de loja."
+Items in Your Shopping Cart,Itens no Carrinho
+Last Correlation ID,ID Última Correlação
+Last Transaction ID,ID Última Transação
+Learn More,Saiba Mais
+Login,Entrar
+Mass Pay Payment,Pagamento em Massa
+Matched (CVV2),Confere (CVV2)
+Matched (CVV2CSC),Confere (CVV2CSC)
+Matched Address only (no ZIP),Confere apenas Endereço (sem CEP)
+Matched Address only (no ZIP). International,Confere apenas Endereço (sem CEP). Internacional
+Matched Postal Code only (no Address),Confere apenas CEP (sem Endereço)
+Matched five-digit ZIP only (no Address),Confere apenas 5 dígitos do CEP (sem Endereço)
+Matched whole nine-didgit ZIP (no Address),Confere todos os 9 dígitos do CEP (sem Endereço)
+Merchant Account,Conta Empresa
+Merchant Country,País da Empresa
+Merchant Liability,Responsabilidade da Empresa
+Merchant Location,Localização da Empresa
+Merchant Protection Eligibility,Garantia de Proteção à Empresa
+Merchant Referral Bonus,Bônus Referência Empresa
+Merchant holds a non-U.S. account and does not have a withdrawal mechanism.,"Titular da conta empresa não reside nos EUA, e não possui um mecanismo de saque."
+Merchant reference ID format is not supported.,Formato do ID de referência da empresa não é suportado.
+Merchants need to apply to PayPal for enabling billing agreements feature. Do not enable this option until PayPal confirms that billing agreements are enabled for your merchant account.,Empresas precisam criar uma conta no PayPal para habilitar esta opção de pagamento. Não disponibilize esta opção até que o PayPal confirme que sua conta está habilitada como uma conta empresa.
+Mobile Payment (made via a mobile phone),Pagamento Móvel (feito por um telefone celular)
+N/A,N/A
+"N/A. Address not checked, or acquirer had no response. Service not available","N/A. Endereço não confirmado, ou comprador não responde. Serviço não disponível"
+N/A. Global Unavailable,N/A. Indisponível Global
+N/A. International Unavailable,N/A. Indisponível Internacional
+N/A. Merchant has indicated that CVV2 is not present on card,N/A. Empresa indicou um CVV2 que não está presente no cartão
+N/A. No response,N/A. Nenhuma resposta
+N/A. Not allowed for MOTO (Internet/Phone) transactions,N/A. Não permitido para transações MOTO (Internet/Telefone)
+N/A. Not processed,N/A. Não processado
+N/A. Retry,N/A. Tentar novamente
+N/A. Service not Supported,N/A. Serviço não Suportado
+N/A. Service not available,N/A. Serviço não disponível
+N/A. Service not supported,N/A. Serviço não suportado
+N/A. The merchant did not provide AVS information,N/A. A empresa não forneceu informações para AVS
+N/A. The merchant has not implemented CVV2 code handling,N/A. A empresa não criou o código de manipulação do CVV2
+N/A. Unavailable,N/A. Indisponível
+Negative Balance,Saldo Negativo
+Never,Nunca
+No,Não
+No Details matched,Nenhum detalhe confere
+No Details matched. International,Nenhum detalhe confere. Internacional
+No Liability Shift,Nenhuma Garantia de Responsabilidade
+No Logo,Sem Logo
+No match,Não confere
+None of the address information matched,Nenhum dos endereços informados conferem
+"Not sure what PayPal payment method to use? Click <a href=""%s"" target=""_blank"">here</a> to learn more.","Não sabe como usar o meio de pagamento PayPal? Clique <a href=""%s"" target=""_blank"">aqui</a> para conhecer."
+Note: %s,Nota: %s
+Nothing to fetch because of an empty configuration.,Nada recuperado porque a configuração está em branco.
+Notice that PayPal can handle up to 10 shipping options. That is why Magento will transfer only first 10 cheapest shipping options if there are more than 10 available.,"Observe que o Paypal pode manipular até 10 opções de envio. É por isso que o Magento irá transferir apenas as 10 primeiras opções de envio mais barato, se houver mais de 10 disponíveis."
+Notified customer about creditmemo #%s.,Avisar o cliente sobre o reembolso #%s.
+Notified customer about invoice #%s.,Avisar o cliente sobre a fatura #%s.
+Now accepting PayPal (150 X 40),PayPal agora aceita (150 X 40)
+Now accepting PayPal (150 X 60),PayPal agora aceita (150 X 60)
+Number of Child Authorizations,Número de Autorizações Abaixo
+Open Authorization,Abrir Autorização
+Order,Pedido
+Order ID,ID do Pedido
+Order Valid Period (days),Período de Validação do Pedido (dias)
+Ordered amount of %s.,Total do pedido em %s.
+Ordering amount of %s is pending approval on gateway.,Total do pedido em %s está dependendo de aprovação no gateway.
+Page Background Color,Cor de Fundo da Página
+Page Style,Estilo da Página
+Part of the address information matched,Parte do endereço informado confere
+Partner,Parceiro
+Pasarela integral,Gateway abrangente
+Password,Senha
+PayPal All-in-One Payment Solutions&nbsp;&nbsp;<i>Accept and process credit cards and PayPal payments.</i>,PayPal Solução Completa em Pagamentos&nbsp;&nbsp;<i>Aceita e processa pagamentos em cartão de crédito e PayPal.</i>
+PayPal Balance Manager function of PayPal account,PayPal Função p/ Gerenciar Saldo de conta PayPal
+PayPal Billing Agreement Settings,Configurações de Termos de Cobrança PayPal
+PayPal Buyer Warranty Bonus,Garantia de Bônus do Cliente PayPal
+PayPal Debit Card Cash Advance,Cartão de Débito Avançado PayPal
+PayPal Debit Card Withdrawal from ATM,PayPal Saque com Cartão de Débito ATM
+PayPal Express Checkout,PayPal Express Checkout
+PayPal Express Checkout Shortcut Wrapper,PayPal Express Checkout Conjunto de Atalhos
+PayPal Express Checkout Token does not exist.,PayPal Express Checkout Token não existe.
+PayPal Express Checkout is not enabled.,PayPal Express Checkout não habilitado.
+PayPal Express Order Review Form,PayPal Express Formulário de Comentário de Pedido
+PayPal Fee Information,PayPal Informações de Taxas
+PayPal Merchant Pages Style,PayPal Estilo da Página da Empresa
+PayPal Payment Gateways,PayPal Gateways de Pagamento
+PayPal Payment Solutions,PayPal Solução de Pagamento
+PayPal Pro,PayPal Pro
+PayPal Product Logo,PayPal Logo do Produto
+PayPal Protection Bonus,PayPal Proteção Bônus
+PayPal Reference ID,PayPal ID de Referência
+PayPal Reference ID Type,PayPal Tipo do ID de Referência
+PayPal Settlement Reports,PayPal Relatórios de Liquidação
+PayPal certificate does not exist.,PayPal certificado não existe.
+PayPal certificate file is empty.,PayPal arquivo certificado está vazio.
+"PayPal does not support processing orders with zero amount. To complete your purchase, proceed to the standard checkout process.","PayPal não processa pedidos com valor final igual a zero. Para finalizar sua compra, continue com processo de checkout padrão."
+PayPal gateway has rejected request. %s,PayPal gateway recusou a solicitação. %s
+PayPal recommends that you set up an additional User on your account at manager.paypal.com,PayPal recomenda que você configure um Usuário adicional na sua conta em manager.paypal.com
+"PayPal recommends you set up an additional User on your account at manager.paypal.com, instead of entering your admin username and password here. This will enhance your security and prevent service interruptions if you later change your password. If you do not want to set up an additional User, you can re-enter your Merchant Login here.","PayPal recomenda que seja criado um Usuário adicional na sua conta em manager.paypal.com, ao invés de informar seu usuário e senha de administrador aqui. Isso aumenta sua segurança e previne interrupções de serviço caso sua senha seja alterada mais tarde. Se você não deseja criar um novo Usuário, basta informar seu Login de Empresário aqui."
+PayPal response hasn't required fields.,PayPal retorno não exige campos.
+PayPal retains reports for 45 days.,PayPal armazenar os relatórios por 45 dias.
+PayPal/Centinel Electronic Commerce Indicator,PayPal/Centinel Electronic Commerce Indicador
+PayPal/Centinel Visa Payer Authentication Service Result,PayPal/Centinel Visa Resultado do Serviço de Autenticação de Pagamento
+Payer Address ID,ID do Endereço do Cliente
+Payer Address Status,Status Endereço Cliente
+Payer Email,Email Cliente
+Payer ID,ID Cliente
+Payer Status,Status Cliente
+Payer is not identified.,Cliente não foi identificado.
+Payflow Link,Link Payflow
+Payflow Link (Includes Express Checkout),Link Payflow (Incluindo Express Checkout)
+Payflow Pro,Payflow Pro
+Payflow Pro (Includes Express Checkout),Payflow Pro (Incluindo Express Checkout)
+Payflow Pro and Express Checkout,Payflow Pro e Express Checkout
+Payment Action,Ação de Pagamento
+Payment Applicable From,Pagamento Aplicável à partir de
+Payment Refund initiated by merchant,Pagamento de Reembolso inicializado pelo vendedor
+Payment has been declined. Please try again.,Pagamento foi recusado. Tente novamente.
+Payment transactions disallow storing objects.,Operação de pagamento não permite armazenar objetos.
+Payments Advanced,Pagamentos Avançados
+Payments Advanced (Includes Express Checkout),Pagamentos Avançados (Incluindo Express Checkout)
+Payments Pro (Includes Express Checkout),Payments Pro (Incluindo Express Checkout)
+Payments Pro Hosted Solution,Payments Pro Solução Hosted
+Payments Pro and Express Checkout,Payments Pro e Express Checkout
+Payments Standard,Pagamento Padrão
+Payments by PayPal (150 X 40),Pagamentos por PayPal (150 X 40)
+Payments by PayPal (150 X 60),Pagamentos por PayPal (150 X 60)
+Pending PayPal,PayPal Pendente
+Place Order,Local do Pedido
+Please agree to all the terms and conditions before placing the order.,Declaro que li e concordo com os termos e condições do pedido.
+Please do not refresh the page until you complete payment.,Não atualize a página até que o pagamento seja finalizado.
+Please re-enable the previously enabled payment solutions.,Re-habilite as soluções de pagamento previamente habilitadas.
+Please select a shipping method...,Selecione uma forma de entrega...
+"Please select region, state or province","Selecione um bairro, estado ou cidade"
+Please update order data to get shipping methods and rates,Atualize os dados do pedido para obter valores e meios de entrega
+Points Incentive Redemption,Resgatar Pontos de Incentivo
+Postage Payment to either USPS or UPS,Franquias de Pagamento para USPS ou UPS
+"Preapproved Payment (BillUser API), either sent or received","Pagamento Pré-Aprovado (BillUser API), tanto envio quanto recebimento"
+Preapproved Payment ID,ID Pagamento Pré-Aprovado
+Price,Preço
+Pro,Pro
+Process payments using your own internet merchant account.,Processo de pagamento usando sua conta de vendedor.
+Product Name,Nome do Produto
+Proxy Host,Proxy Host
+Proxy Port,Proxy Porta
+Qty,Qtd
+Reauthorization,Re-Autorização
+Reference Information,Informação de Referência
+Reimbursement for a chargeback.,Reembolso para um chargeback.
+Reimbursement of Chargeback,Reembolso de Chargeback
+Report Date,Data do Relatório
+Reports,Relatórios
+Require CVV Entry,Entrada Obrigatória CVV
+Require Customer's Billing Address,Obrigatório Endereço de Cobrança do Cliente
+Required PayPal Settings,Configurações Obrigatórias do PayPal
+Required Settings,Configurações Obrigatórias
+Reversal,Reembolso
+Reversal of General Account Hold,Reembolso p/ Conta Geral Pendente
+Reversal of Points Usage,Reembolso p/ Pontos Usados
+Reversal of an adjustment.,Reembolso p/ Ajustamento.
+Reversal of hold for Dispute Investigation,Reembolso p/ Investigação de Disputa Pendente
+Review Order,Revisar pedido
+Reward Voucher Redemption,Resgatar Voucher Premiado
+SFTP Credentials,Credenciais SFTP
+Sale,Venda
+Sales,Vendas
+Same as shipping,Mesmo da entrega
+Sandbox Credentials,Credenciais Sandbox
+Sandbox Mode,Modo Sandbox
+Schedule,Agenda
+Schedule description is too long.,Descrição da agenda é muito extensa.
+Scheduled Fetching,Busca Agendada
+Select a PayPal Solution,Selecionar uma Solução PayPal
+Send Email Confirmation,Enviar Email de Confirmação
+Server Error. Please try again.,Erro no Servidor. Tente novamente.
+Settlement Consolidation,Consolidação de Liquidação
+Settlement Report Settings,Configurações do Relatório de Liquidação
+Settlement of a chargeback.,Liquidação para um chargeback.
+Severe 3D Secure Card Validation,Validação de Cartão Severe 3D Secure
+Severe Validation Removes Chargeback Liability on Merchant,Validação Severe Isenta Responsabilidade de Chargeback do Vendedor
+Severe validation removes chargeback liability on merchant.,Validação Severe isenta responsabilidade de chargeback do vendedor.
+Shipping,Entrega
+Shipping Address,Endereço de Entrega
+Shipping Method,Forma de Entrega
+Shop now using (150 X 40),Comprar agora usando (150 X 40)
+Shop now using (150 X 60),Comprar agora usando (150 X 60)
+Shortcut,Atalho
+Shortcut Buttons Flavor,Sabor do Botão de Atalho
+Shortcut on Product View,Atalho p/ Visualização do Produto
+Shortcut on Shopping Cart,Atalho p/ Carrinho
+Sign a billing agreement to streamline further purchases with PayPal.,Cadastre-se para agilizar o pagamento da suas compras usando PayPal.
+Solo,Solo
+Some PayPal solutions conflict.,Alguns conflitos de solução PayPal.
+"Sorry, no quotes are available for this order at this time.","Desculpe, nenhuma cotação disponível para este pedido no momento."
+Sort Order,Ordem
+Specifies what the Authorization Honor Period is on the merchant’s PayPal account. It must mirror the setting in PayPal.,Informar o período de autorização fica por conta do vendedor. Deve ser a mesma configuração no PayPal.
+Specifies what the Order Valid Period is on the merchant’s PayPal account. It must mirror the setting in PayPal.,Informar o período de validação do pedido fica por conta do vendedor. Deve ser a mesma configuração no PayPal.
+State/Province,Estado
+Static,Estático
+Street Address,Rua
+Street Address %s,Rua %s
+Submitting order information...,Enviando informações do pedido...
+Subscriber name is too long.,Nome do assinante é muito extenso.
+Subscription ID,ID do Assinante
+"Subscription Payment, either payment sent or payment received","Pagamento do Assinante, tanto para envio de pagamentos ou recebimento"
+Subtotal,Subtotal
+Summary Text for Aggregated Cart,Resumo dos Termos e Condições do Carrinho
+"Supporting of American Express cards require additional agreement. Learn more at <a href=""http://www.paypal.com/amexupdate"">http://www.paypal.com/amexupdate</a>.","Suporte ao cartão American Express requer termos adicionais. Saiba mais em <a href=""http://www.paypal.com/amexupdate"">http://www.paypal.com/amexupdate</a>."
+Switch/Maestro,Switch/Maestro
+Telephone,Telefone
+Test Mode,Modo Teste
+The background color for the checkout page around the header and payment form.,Cor de fundo da página de pagamento ao redor do cabeçalho e formulário de pagamento.
+The background color for the header of the checkout page. Case-insensitive six-character HTML hexadecimal color code in ASCII.,Cor de fundo da página do cabeçalho de pagamento. Seis caracteres em HTML código hexadecimal de cor em ASCII.
+The default number of child authorizations in your PayPal account is 1. To do multiple authorizations please contact PayPal to request an increase.,O número padrão de autorizações subsequentes na sua conta PayPal é de 1. Você pode solicitar um aumento no número de autorizações entrando em contato com o PayPal.
+The following error(s) occured:,Foram encontrados os seguintes erros:
+"The image at the top left of the checkout page. Max size is 750x90-pixel. <strong style=""color:red"">https</strong> is highly encouraged.","Imagem no alto à esquerda da página de pagamento. Tamanho máximo 750x90-pixels. <strong style=""color:red"">https</strong> altamente recomendável."
+The maximum number of child authorizations is reached.,Número máximo de autorizações subsequentes foi atingido.
+The merchant account is not yet verified.,A conta empresa ainda não foi verificada.
+The payment curency does not match any of the merchant\'s balances currency.,A moeda de pagamento não confere com nenhuma moeda permitida.
+The payment eCheck is not yet cleared.,O pagamento eCheck ainda não foi apurado.
+The payment is authorized but not settled.,O pagamento está autorizado mas não resolvido.
+The payment is pending because it was made to an email address that is not yet registered or confirmed.,O pagamento está pendente porque foi feito por um Email não registrado ou confirmado ainda.
+The payment is pending while it is being reviewed by PayPal for risk.,O pagamento está pendente até que o Paypal avalie os riscos.
+The payment was made via credit card. In order to receive funds merchant must upgrade account to Business or Premier status.,"O pagamento foi feito por cartão de crédito. Para receber os valores, o vendedor precisa atualizar sua conta para Business ou Premier."
+There is already another PayPal solution enabled. Enable this solution instead?,Já existe outra solução PayPal habilitada. Habilitar esta opção assim mesmo?
+There was an error processing your order. Please contact us or try again later.,Ocorreu um erro ao processar seu pedido. Entre em contato ou tente novamente.
+This feature needs be enabled first for the merchant account through PayPal technical support.,Este recurso precisa ser habilitado primeiro p/ conta do vendedor através do suporte técnico do PayPal.
+This operation requires an existing transaction object.,Esta operação exige um objeto de transação existente.
+Time of Day,Hora do Dia
+Title,Título
+Transaction ID,ID da Transação
+Transaction ID must not be empty.,ID da Transação não pode ser vazio.
+Transaction Information,Informações de Transação
+Transaction reversal by PayPal administrators.,Reversão de transação feita pelos administradores do PayPal.
+Transaction reversal due to fraud detected by PayPal administrators.,Reversão de transação feita pela equipe do PayPal por suspeitas de fraude.
+Transfer Cart Line Items,Transferir Itens do carrinho
+Transfer Shipping Options,Opções de Envio de Transferência
+Triggered Fraud Filters,Iniciado Filtros de Fraude
+URL method for Cancel URL and Return URL,URL p/ URL de Cancelamento e URL de Retorno
+Unable to cancel Express Checkout.,Não foi possível cancelar o Express Checkout.
+Unable to change status. Current status is not correspond to real status.,Não foi possível alterar status. Status não corresponde ao status real.
+Unable to communicate with the PayPal gateway.,Não foi possível se comunicar com o gateway do PayPal.
+Unable to initialize Express Checkout review.,Não foi possível reiniciar o processo Express Checkout.
+Unable to initialize Express Checkout.,Não foi possível iniciar Express Checkout.
+Unable to place the order.,Não foi possível processar o pedido.
+Unable to process Express Checkout approval.,Não foi possível processar a autorização Express Checkout.
+Unable to start Express Checkout.,Não foi possível utilizar Express Checkout.
+Unable to update Order data.,Não foi possível atualizar dados do Pedido.
+Unable to update shipping method.,Não foi possível atualizar a forma de entrega.
+Unknown Error. Please try again later.,Erro Desconhecido. Tente novamente mais tarde.
+Unknown reason. Please contact PayPal customer service.,Razão desconhecida. Entre em contato com suporte do PayPal.
+Update Order Data,Atualizar Dados do Pedido
+Use Proxy,Usar Proxy
+"Use colon to specify port. For example: ""test.example.com:5224"".","Use dois pontos para especificar a porta. Por exemplo: ""teste.exemplo.com:5224""."
+User,Usuário
+User-initiated Currency Conversion,Conversão de Moeda Iniciada pelo Usuário
+Uses store frontend name by default.,Usar o nome da loja no frontend por padrão.
+VAT Number,Número CPF
+Vendor,Vendedor
+View,Visualizar
+View Demo,Visualizar Demonstração
+View Transaction,Visualizar Transações
+View Transaction Details,Visualizar Detalhes da Transação
+Virtual PayPal Debit Card Transaction,Transação Virtual PayPal p/ Cartão de Débito
+Virtual Terminal Payment,Terminal Virtual de Pagamento
+Void,Anulado
+We prefer PayPal (150 X 40),Nós preferimos PayPal (150 X 40)
+We prefer PayPal (150 X 60),Nós preferimos PayPal (150 X 60)
+Website Payments Plus,Website Pagamentos Plus
+Website Payments Pro (Includes Express Checkout),Website Pagamentos Pro (Incluindo Express Checkout)
+Website Payments Pro Hosted Solution,Website Payments Pro Hosted Solution
+Website Payments Pro Hosted Solution (Includes Express Checkout),Website Pagamentos Pro Solução Hosted (Incluindo Express Checkout)
+Website Payments Pro Hosted Solution and Express Checkout,Website Pagamentos Pro Solução Hosted e Express Checkout
+Website Payments Pro Payflow Edition (Includes Express Checkout),Website Pagamentos Edição Pro Payflow (Incluindo Express Checkout)
+Website Payments Pro Payflow Edition and Express Checkout,Website Pagamentos Edição Pro Payflow e Express Checkout
+Website Payments Pro and Express Checkout,Website Pagamentos Pro e Express Checkout
+Website Payments Standard,Website Pagamentos Padrão
+Website Payments Standard Payment,Website Pagamentos Padrão de Pagamentos
+What is PayPal?,O que é PayPal?
+"Whether to create a billing agreement, if there are no active billing agreements available.","Necessário criar um termo de cobrança, se não houver nenhum termo de cobrança ativo disponível."
+Will appear as a payment option only for customers who have at least one active billing agreement.,Irá aparecer como opção de pagamento apenas para clientes que possuem ao menos um termo de cobrança ativo.
+WorldLink Withdrawal,Saque WorldLink
+Would you like to sign a billing agreement to streamline further purchases with PayPal?,Você gostaria de assinar um termo de cobrança para agilizar o processo de compras usando PayPal?
+Wrong PayPal Express Checkout Token specified.,Token informado p/ PayPal Express Checkout inválido.
+Yes,Sim
+Yes. Matched Address and five-didgit ZIP,Sim. Endereço Confirmado e 5 dígitos do CEP
+You cannot void a verification transaction,Você não pode cancelar uma transação de verificação
+You will be redirected to the PayPal website in a few seconds.,Você será redirecionado p/ o PayPal em alguns segundos.
+You will be redirected to the PayPal website when you place an order.,Você será redirecionado p/ o PayPal quando finalizar seu pedido.
+You will be redirected to the PayPal website.,Você será redirecionado p/ o site do PayPal.
+You will be required to enter your payment details after you place an order.,Informações de pagamento serão solicitados assim que você finalizar seu pedido.
+Zip/Postal Code,CEP
+eBay Auction Payment,Pagamento de Leilão eBay
