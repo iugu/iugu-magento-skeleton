@@ -6,18 +6,17 @@ app/code/community/Cm/
 app/code/core/
 app/design/adminhtml/default/default/*
 !app/design/adminhtml/default/default/template
-app/design/frontend/base/*
+app/design/frontend/base/base/*
 app/design/frontend/base/default/*
+app/design/frontend/base/default/template/*
+!app/design/frontend/base/default/template
+app/design/frontend/base/default/layout/*
+!app/design/frontend/base/default/layout
+!app/design/frontend/base/default
 app/design/frontend/default/default/
 app/design/frontend/default/blank/
 app/design/frontend/default/iphone/
 app/design/frontend/default/modern/
-!app/design/frontend/base/default/template
-!app/design/frontend/base/default/layout
-!app/design/adminhtml/default/default/template/turpentine*
-!app/design/adminhtml/default/default/layout/turpentine.xml
-!app/design/frontend/base/default/template/turpentine*
-!app/design/frontend/base/default/layout/turpentine_esi.xml
 app/design/install/
 !/app/etc/modules/
 app/etc/modules/*
@@ -95,3 +94,9 @@ RELEASE_NOTES.txt
 mage
 api.php
 get.php
+
+# Tupertine Module
+!app/design/adminhtml/default/default/template/turpentine*
+!app/design/adminhtml/default/default/layout/turpentine.xml
+!app/design/frontend/base/default/template/turpentine*
+!app/design/frontend/base/default/layout/turpentine_esi.xml
