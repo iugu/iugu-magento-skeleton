@@ -110,3 +110,6 @@ get.php
 !app/etc/modules/Iugu_AdminConfig.xml
 !app/etc/modules/Iugu_SystemConfig.xml
 !app/etc/modules/ZZ_IuguDefaults.xml
+
+# Inchoo APC Cache
+!app/design/adminhtml/default/default/template/system/cache/*
