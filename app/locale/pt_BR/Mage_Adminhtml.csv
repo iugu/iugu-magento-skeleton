@@ -1194,3 +1194,6 @@ website(%s) scope,escopo website(%s)
 Prices, Preços
 Meta Information, Meta Informação
 Recurring Profile, Perfil Recorrente
+"APC cache flushed successfully.", "Cache APC limpado com sucesso."
+"Flush APC Cache","Limpar Cache APC"
+"APC user and system cache.","Cache APC de usuário e sistema."

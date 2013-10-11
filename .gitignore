@@ -115,3 +115,5 @@ get.php
 
 # Inchoo APC Cache
 !app/design/adminhtml/default/default/template/system/cache
+app/design/adminhtml/default/default/template/system/cache/edit.phtml
+app/design/adminhtml/default/default/template/system/cache/notifications.phtml
