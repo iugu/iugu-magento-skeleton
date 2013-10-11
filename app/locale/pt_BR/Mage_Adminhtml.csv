@@ -171,7 +171,7 @@ Both (without and with tax),Ambos (com e sem imposto)
 Both IPN and PDT,Ambos IPN e PDT
 Browse Files...,Procurar Arquivos...
 Bundle with dynamic pricing cannot include custom defined options. Options will not be saved.,Pacotes com preços dinâmicos não podem ter opções de campos personalizados. Opções não serão salvas.
-CMS,CMS
+CMS,Gerenciador de Conteúdo
 CRITICAL,PERIGOSO
 CSV,CSV
 CSV / Tab separated,CSV / Separado por Delimitador
@@ -585,7 +585,7 @@ New User,Novo Usuário
 New Variable,Nova Variável
 New Website,Novo Website
 New password field cannot be empty.,Campo de nova senha não pode ficar em branco.
-Newsletter,Newsletter
+Newsletter, Email de Novidades
 Newsletter Problems,Problemas de Newsletter
 Newsletter Queue,Enviar Newsletter
 Newsletter Subscribers,Assinaturas
@@ -665,7 +665,7 @@ Percent,Percentual
 Performed At,Realizado No
 Period,Período
 Permanent (301),Permanente (301)
-Permissions,Permissões
+Permissions,Usuários e Permissões
 Personal Information,Informação Pessoal
 Phone:,Fone:
 Please Select,Selecione...
@@ -1049,7 +1049,7 @@ Transaction Data,Dados da Transação
 Transaction Details,Detalhes da Transação
 Transaction ID,ID da Transação
 Transaction Type,Tipo de Transação
-Transactional Emails,Emails de Transação
+Transactional Emails,Modelos de E-Mails
 Transactions,Transações
 Try Magento Go for Free,Conheça o MagentoGO
 Type,Tipo

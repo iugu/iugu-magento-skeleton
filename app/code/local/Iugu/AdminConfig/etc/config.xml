@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<config>
+  <modules>
+    <Iugu_AdminConfig>
+      <version>1.0.0</version>
+    </Iugu_AdminConfig>
+  </modules>
+</config>

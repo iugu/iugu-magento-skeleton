@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<config>
+  <menu>
+    <sales>
+      <children>
+        <recurring_profile>
+          <disabled>1</disabled>
+        </recurring_profile>
+        <billing_agreement>
+          <disabled>1</disabled>
+        </billing_agreement>
+        <checkoutagreement>
+          <disabled>1</disabled>
+        </checkoutagreement>
+      </children>
+    </sales>
+
+    <customer>
+      <children>
+        <online>
+          <disabled>1</disabled>
+        </online>
+      </children>
+    </customer>
+
+    <system>
+      <children>
+        <convert>
+          <disabled>1</disabled>
+        </convert>
+        <currency>
+          <disabled>1</disabled>
+        </currency>
+        <tools>
+          <children>
+            <compiler>
+              <disabled>1</disabled>
+            </compiler>
+          </children>
+        </tools>
+      </children>
+    </system>
+  </menu>
+</config>

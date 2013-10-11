@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<config>
+
+    <sections>
+        <general>
+            <label>General Information</label>
+            <!-- 2 -->
+            <groups>
+                <country>
+                            <show_in_default>0</show_in_default>
+                </country>
+                <region>
+                            <show_in_default>0</show_in_default>
+                </region>
+                <store_information>
+                    <fields>
+
+			<merchant_country>
+                            <show_in_default>0</show_in_default>
+			</merchant_country>
+                        <merchant_vat_number>
+                            <show_in_default>0</show_in_default>
+                        </merchant_vat_number>
+                        <validate_vat_number>
+                            <show_in_default>0</show_in_default>
+                        </validate_vat_number>
+                    </fields>
+                </store_information>
+            </groups>
+        </general>
+
+        <web>
+            <groups>
+                <url>
+                            <show_in_default>0</show_in_default>
+                </url>
+                <polls>
+                            <show_in_default>0</show_in_default>
+                </polls>
+                </groups>
+        </web>
+
+        <currency>
+                            <show_in_default>0</show_in_default>
+        </currency>
+
+        <payment>
+                <groups>
+                        <ccsave>
+                            <show_in_default>0</show_in_default>
+                        </ccsave>
+                </groups>
+        </payment>
+
+    </sections>
+</config>
