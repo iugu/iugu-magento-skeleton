@@ -7,6 +7,8 @@ app/code/core/
 app/design/adminhtml/default/default/*
 app/design/adminhtml/default/default/template/*
 !app/design/adminhtml/default/default/template
+app/design/adminhtml/default/default/template/system/*
+!app/design/adminhtml/default/default/template/system
 app/design/frontend/base/base/*
 app/design/frontend/base/default/*
 app/design/frontend/base/default/template/*
@@ -112,4 +114,4 @@ get.php
 !app/etc/modules/ZZ_IuguDefaults.xml
 
 # Inchoo APC Cache
-!app/design/adminhtml/default/default/template/system/cache/*
+!app/design/adminhtml/default/default/template/system/cache
