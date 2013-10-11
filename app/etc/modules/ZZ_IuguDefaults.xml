@@ -1,0 +1,67 @@
+<config>
+  <modules>
+    <Mage_Downloadable>
+      <active>false</active>
+    </Mage_Downloadable>
+
+    <Mage_Tag>
+      <active>false</active>
+    </Mage_Tag>
+
+    <Mage_Usa>
+      <active>false</active>
+    </Mage_Usa>
+
+    <Mage_Centinel>
+      <active>false</active>
+    </Mage_Centinel>
+
+    <Mage_Captcha>
+      <active>false</active>
+    </Mage_Captcha>
+
+    <Mage_XmlConnect>
+      <active>false</active>
+    </Mage_XmlConnect>
+    <Mage_GoogleCheckout>
+      <active>false</active>
+    </Mage_GoogleCheckout>
+
+    <Mage_Authorizenet>
+      <active>false</active>
+    </Mage_Authorizenet>
+
+    <Mage_Paypal>
+      <active>false</active>
+    </Mage_Paypal>
+
+    <Mage_PaypalUk>
+      <active>false</active>
+    </Mage_PaypalUk>
+
+    <Mage_Paygate>
+      <active>false</active>
+    </Mage_Paygate>
+
+    <Mage_Poll>
+      <active>false</active>
+    </Mage_Poll>
+
+    <Mage_Weee>
+      <active>false</active>
+    </Mage_Weee>
+
+    <Mage_ImportExport>
+      <active>false</active>
+    </Mage_ImportExport>
+
+    <Mage_Bundle>
+      <active>false</active>
+    </Mage_Bundle>
+
+    <Phoenix_Moneybookers>
+      <active>false</active>
+    </Phoenix_Moneybookers>
+
+  </modules>
+</config>
